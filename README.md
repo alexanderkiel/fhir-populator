@@ -144,4 +144,4 @@ If you want to customize the program, you should:
 | Version | Date | Changes |
 |-|-|-|
 | v1.0.10 | 2021-06-03 | Initial release |
-| v1.0.11 | 2021-06-04 | - handle Unicode filenames, especially on BSD/macOS (#1)<br>- do not serialize null ID for POST (#2) |
+| v1.0.11 | 2021-06-04 | - handle Unicode filenames, especially on BSD/macOS (#1)<br>- do not serialize null ID for POST (#2)<br> - add LICENSE (BSD)|
